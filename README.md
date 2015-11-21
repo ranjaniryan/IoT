@@ -28,6 +28,8 @@ Internet of Things
 ###RaspberryPi
 - [Windows 10 IoT Core](http://ms-iot.github.io/content/en-US/Downloads.htm)
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian)
+- [Ubuntu Mate](https://ubuntu-mate.org/raspberry-pi/)
+- [Snappy Ubuntu Core](https://developer.ubuntu.com/en/snappy/start/#snappy-raspi2)
 
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request.
