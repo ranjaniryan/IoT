@@ -24,6 +24,11 @@ Internet of Things
 - [SmartJS](https://github.com/cesanta/smart.js)
 - [CylonJS](http://cylonjs.com)
 
+##Operating System
+###RaspberryPi
+- [Windows 10 IoT Core](http://ms-iot.github.io/content/en-US/Downloads.htm)
+- [Raspbian](https://www.raspberrypi.org/downloads/raspbian)
+
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request.
 
