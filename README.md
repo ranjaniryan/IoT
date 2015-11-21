@@ -32,6 +32,9 @@ Internet of Things
 - [Ubuntu Mate](https://ubuntu-mate.org/raspberry-pi/)
 - [Snappy Ubuntu Core](https://developer.ubuntu.com/en/snappy/start/#snappy-raspi2)
 - [OSMC : Open Source Media Centre](https://osmc.tv/download/)
+- [Openelec : Open Embedded Linux Entertainment Centre](http://openelec.tv/get-openelec)
+- [Pinet](http://pinet.org.uk/)
+- [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi)
 
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request.
