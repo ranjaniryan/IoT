@@ -11,6 +11,7 @@ Internet of Things
 - [MinnowBoard MAX]()
 - [Sharks Cove]()
 - [Qualcomm DragonBoard 410C]()
+- [Artik](https://www.artik.io/)
 
 ##Language
 ###Go Language
