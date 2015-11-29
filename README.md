@@ -36,10 +36,17 @@ Internet of Things
 - [Pinet](http://pinet.org.uk/)
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi)
 
-##Ebook
-free and fee ebook.
+###Introductions & Core Concepts
 
-###Cloud
+###Blogs & Tutorial
+
+###Books
+
+###Courses
+
+###Talks and Videos
+
+##Meetup
 
 # Contributing
 If you find this list useful and have some additions / corrections, feel free to submit a pull request.
